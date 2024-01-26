@@ -6,4 +6,4 @@ In my childhood in the 70s and 80s, I was passionate about computer programming 
 
 Today, I combine a bit of these two passions: design and technology. I do graphic design by diving straight into coding CSS, HTML, BASH, etc.
 
-I've been a fan of Linux Mint since 2017.
+I've been a fan of [Linux Mint](https://linuxmint.com/) since 2017.
