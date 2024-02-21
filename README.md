@@ -2,7 +2,7 @@
 
 I did some electronic publishing and graphic design from 1988 to 2002. I was into early Apple Macintosh computers.
 
-In my childhood in the 70s and 80s, I was passionate about computer programming and electronics.
+During my childhood in the 70s and 80s, I was passionate about computer programming and electronics.
 
 **Today, I combine a bit of these two passions: design and technology.**
 
