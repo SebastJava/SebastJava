@@ -6,6 +6,4 @@ During my childhood in the 70s and 80s, I was passionate about computer programm
 
 **Today, I combine a bit of these two passions: design and technology.**
 
-I do graphic design by diving straight into coding CSS, SASS, BASH, HTML, etc.
-
-I am powered by the [Linux Mint](https://linuxmint.com/) system since 2017.
+I am on Linux since year 2017. I started on Linux Mint. I am now on Ubuntu since June 2024.
