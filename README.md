@@ -6,4 +6,4 @@ During my childhood in the 70s and 80s, I was passionate about computer programm
 
 **Today, I combine a bit of these two passions: design and technology.**
 
-I am on Linux since year 2017. I started on Linux Mint. I am now on Ubuntu since June 2024.
+I am on Linux desktop operating systems since year 2017. I was on Linux Mint. I am now on Ubuntu since June 2024.
